@@ -212,6 +212,10 @@
  .salom29 {
      width: 272px;
      min-width: 0;
+     flex-direction: column;
+     display: flex;
+     margin-left: 700px;
+     margin-top: -700px;
  }
 
  .salom30 {
@@ -374,4 +378,163 @@
      margin: 0;
      font-size: 9px;
      color: #000;
+ }
+
+ .salom57 {
+     background: #fff;
+     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.16), 0 2px 10px rgba(0, 0, 0, 0.12);
+ }
+
+ .salom58 {
+     margin: 0;
+     padding: 11px 10px;
+     background: #f1f1f1;
+     font-size: 13px;
+     color: #000;
+ }
+
+ .salom59 {
+     display: flex;
+     flex-wrap: wrap;
+     gap: 8px 4px;
+     padding: 14px 10px 20px;
+ }
+
+ .salom60 {
+     padding: 3px 5px;
+     background: #000;
+     color: #fff;
+     font-size: 9px;
+     margin: 0;
+ }
+
+ .salom61 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom62 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom63 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom64 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom65 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom66 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom67 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom68 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom69 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom70 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom71 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom72 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom73 {
+     padding: 3px 5px;
+     background: #f1f1f1;
+     color: #000;
+     font-size: 7px;
+     margin: 0;
+ }
+
+ .salom74 {
+     display: flex;
+     align-items: center;
+     height: 56px;
+     padding: 0 5px;
+     background: #616161;
+ }
+
+ .salom75 {
+     height: 28px;
+     padding: 0 15px;
+     border: 0;
+     background: #707070;
+     color: #aaa;
+     font-size: 9px;
+ }
+
+ .salom76 {
+     height: 28px;
+     padding: 0 15px;
+     border: 0;
+     background: #000;
+     color: #fff;
+     font-size: 9px;
+     cursor: pointer;
  }
